@@ -1,0 +1,69 @@
+name: data-collection-env
+channels:
+- conda-forge
+- anaconda
+- defaults
+dependencies:
+- cryptography=2.0.3=py36h123decb_1
+- freetype=2.8=vc14h17c9bdf_0
+- jpeg=9b=vc14h4d7706e_1
+- libiconv=1.15=vc14h29686d3_5
+- libpng=1.6.32=vc14h5163883_3
+- libtiff=4.0.9=h0f13578_0
+- libxml2=2.9.4=vc14h8fd0f11_5
+- libxslt=1.1.29=vc14hf85b8d4_5
+- olefile=0.44=py36h0a7bdd2_0
+- openssl=1.0.2l=vc14hf4c37d5_5
+- pyopenssl=17.4.0=py36h3316aad_0
+- tk=8.6.7=vc14hb68737d_1
+- zlib=1.2.11=vc14h1cdd9ab_1
+- selenium=3.8.0=py36_0
+- appdirs=1.4.3=py36_0
+- asn1crypto=0.24.0=py36_0
+- attrs=17.3.0=py36hc87868e_0
+- automat=0.6.0=py36hc6d8c19_0
+- beautifulsoup4=4.6.0=py36hd4cc5e8_1
+- ca-certificates=2017.08.26=h94faf87_0
+- certifi=2017.11.5=py36hb8ac631_0
+- cffi=1.11.4=py36hfa6e2cd_0
+- chardet=3.0.4=py36h420ce6e_1
+- constantly=15.1.0=py36_0
+- coverage=4.4.2=py36hd32d05b_0
+- cssselect=1.0.1=py36h9989782_0
+- hyperlink=17.1.1=py36_0
+- hypothesis=3.38.5=py36h987501d_0
+- idna=2.6=py36h148d497_1
+- incremental=17.5.0=py36he5b1da3_0
+- lxml=4.1.1=py36he0adb16_0
+- parsel=1.2.0=py36_0
+- pip=9.0.1=py36h226ae91_4
+- pyasn1=0.4.2=py36h22e697c_0
+- pyasn1-modules=0.2.1=py36hd1453cb_0
+- pycparser=2.18=py36hd053e01_1
+- pydispatcher=2.0.5=py36_0
+- pympler=0.5=py36h863af32_0
+- pysocks=1.6.7=py36h698d350_1
+- python=3.6.4=h6538335_1
+- pywin32=221=py36h9c10281_0
+- queuelib=1.4.2=py36_0
+- requests=2.18.4=py36h4371aae_1
+- service_identity=17.0.0=py36_0
+- setuptools=38.4.0=py36_0
+- six=1.11.0=py36h4db2310_1
+- twisted=17.9.0=py36hfad864c_0
+- urllib3=1.22=py36h276f60a_0
+- vc=14=h0510ff6_3
+- vs2015_runtime=14.0.25123=3
+- w3lib=1.18.0=py36h47df3ce_0
+- wheel=0.30.0=py36h6c3ec14_1
+- win_inet_pton=1.0.1=py36he67d7fd_1
+- wincertstore=0.2=py36h7fe50ca_0
+- zope=1.0=py36_0
+- zope.interface=4.4.3=py36h56cab3c_0
+- pip:
+  - pdfkit==0.6.1
+  - service-identity==17.0.0
+  - stem==1.6.0
+  - win-inet-pton==1.0.1
+prefix: C:\Users\Andreea Gheorghe\AppData\Local\conda\conda\envs\final-year-project-env
+
